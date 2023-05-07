@@ -1,6 +1,6 @@
 # Identifying-Mislabeled-Medical-Records-with-ML
 
-## FDA has
+### FDA has
 Participated in FDA mRNA machine learning competition one year before Covid.
 
 Competition summary in the Nature magazine: 
