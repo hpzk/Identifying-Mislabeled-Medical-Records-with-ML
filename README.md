@@ -1,4 +1,4 @@
-# Identifying Mislabeled Medical Records with Machine Learning
+## Identifying Mislabeled Medical Records with Machine Learning
 
 #### FDA hosted a competition in 2018 for using machine learning models to recognize mislabeled genomics data. [An article](https://github.com/hpzk/Identifying-Mislabeled-Medical-Records-with-ML/blob/main/docs/mislabeling_correction_challenge.pdf) in Nature magazine laid out the criteria and we participated for our final project.   
 
